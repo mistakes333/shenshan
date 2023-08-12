@@ -38,8 +38,8 @@
 	"main": "wrangler-dist/cli.js",
 	"types": "wrangler-dist/cli.d.ts",
 	"bin": {
-		"wrangler": "./bin/wrangler.js",
-		"wrangler2": "./bin/wrangler.js"
+		"ss": "./bin/wrangler.js",
+		"wg": "./bin/wrangler.js"
 	},
 	"files": [
 		"src",
